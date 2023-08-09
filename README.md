@@ -1,8 +1,8 @@
-![image](https://github.com/PushpJain009/Calculator/assets/114671782/69fdd0f0-d00f-40c5-8a41-952289440a8d)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![image](https://github.com/PushpJain009/Calculator/assets/114671782/69fdd0f0-d00f-40c5-8a41-952289440a8d)
 
 ## Available Scripts
 
