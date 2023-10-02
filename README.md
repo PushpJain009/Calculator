@@ -1,3 +1,11 @@
+Used Techonologies: 
+  **Front-End Development:
+     1. React JS
+     2. HTML (HyperText Markup Language)
+     3. CSS (Cascading Style Sheets)
+     4. Material-UI (MUI)
+     5. JavaScript**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
